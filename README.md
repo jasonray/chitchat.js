@@ -5,7 +5,7 @@ This is a simple socket.io application.  It consists of an express.js applicatio
 
 To run it:
 ```
-./run
+./run.sh
 ```
 
 Connect multiple browsers to `localhost:3000`, enter text into box at bottom and hit send.  The message will appear in each of the connected browsers
